@@ -11,4 +11,4 @@ Public image assets for web demos and prototypes.
 Use with raw.githubusercontent.com for public demos.
 
 ## Example
-https://raw.githubusercontent.com/你的用户名/demo-assets/main/images/hero.png
+https://raw.githubusercontent.com/alexlufa/demo-assets/main/
